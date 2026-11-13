@@ -40,7 +40,7 @@ The workflow is coordinated through several interconnected Python scripts:
 
 The codebase should follow the directory structure shown below:
 
-<img width="703" height="208" alt="File and directory structure" src="https://github.com/user-attachments/assets/51a78ca5-217f-4324-93e8-ae6ed5521c3e" />
+![Directory Structure](directory_structure.png)
 
 ---
 
